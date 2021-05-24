@@ -21,5 +21,9 @@ Other features can be added that make the option more/less valuable including a 
 ASRs embed Bermudan style optionality. They can be priced via either PDE or Monte Carlo.
 
 
-Reference:
-https://finpricing.com/lib/EqAsr.html
+References:
+
+https://finpricing.com/lib/EqAsian.html
+
+https://bitbucket.org/cmrm11/eqasr/downloads/EqAsr-21.pdf
+
